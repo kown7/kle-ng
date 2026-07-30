@@ -8,223 +8,223 @@
     {
       "x": 3
     },
-    "KC_E",
+    "KC_E\nKC_TRNS\nKC_3\nKC_F11\nKC_TRNS\nKC_8\nKC_F8",
     {
       "x": 8.5
     },
-    "KC_I"
+    "KC_I\nKC_UP\nKC_8\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 2,
       "y": -0.75
     },
-    "KC_W",
+    "KC_W\nKC_TRNS\nKC_2\nKC_F10\nKC_TRNS\nKC_7\nKC_F7",
     {
       "x": 1
     },
-    "KC_R",
+    "KC_R\nKC_TRNS\nKC_4\nKC_F12\nKC_TRNS\nKC_9\nKC_F9",
     {
       "x": 6.5
     },
-    "KC_U",
+    "KC_U\nKC_HOME\nKC_7\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO",
     {
       "x": 1
     },
-    "KC_O"
+    "KC_O\nKC_END\nKC_9\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 5,
       "y": -0.75
     },
-    "KC_T",
+    "KC_T\nKC_TRNS\nKC_5\nKC_TRNS\nKC_TRNS\nKC_UP\nKC_F10",
     {
       "x": 4.5
     },
-    "KC_Y"
+    "KC_Y\nKC_PGUP\nKC_6\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "y": -0.75
     },
-    "KC_TAB",
-    "KC_Q",
+    "KC_TAB\nKC_ESC\nKC_NO\nKC_TRNS\nKC_TRNS\nKC_PSLS\nKC_ESC",
+    "KC_Q\nKC_TRNS\nKC_1\nKC_F9\nKC_TRNS\nKC_PAST\nKC_NO",
     {
       "x": 12.5
     },
-    "KC_P",
-    "KC_LBRC"
+    "KC_P\nKC_VOLU\nKC_0\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO",
+    "KC_LBRC\nKC_DEL\nKC_BSPC\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 3,
       "y": -0.75
     },
-    "KC_D",
+    "KC_D\nKC_LCTL\nKC_HASH\nKC_F7\nKC_TRNS\nKC_5\nKC_F5",
     {
       "x": 8.5
     },
-    "KC_K"
+    "KC_K\nKC_DOWN\nKC_ASTR\nKC_RCTL\nRGB_HUI\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 2,
       "y": -0.75
     },
-    "KC_S",
+    "KC_S\nKC_LALT\nKC_AT\nKC_F6\nKC_TRNS\nKC_4\nKC_F4",
     {
       "x": 1
     },
-    "KC_F",
+    "KC_F\nKC_LSFT\nKC_DLR\nKC_F8\nKC_TRNS\nKC_6\nKC_F6",
     {
       "x": 6.5
     },
-    "KC_J",
+    "KC_J\nKC_LEFT\nKC_AMPR\nKC_RSFT\nRGB_SAI\nKC_NO\nKC_NO",
     {
       "x": 1
     },
-    "KC_L"
+    "KC_L\nKC_RGHT\nKC_LPRN\nKC_LALT\nRGB_VAI\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 5,
       "y": -0.75
     },
-    "KC_G",
+    "KC_G\nKC_TRNS\nKC_PERC\nKC_TRNS\nKC_TRNS\nKC_DOWN\nKC_F11",
     {
       "x": 4.5
     },
-    "KC_H"
+    "KC_H\nKC_PGDN\nKC_CIRC\nKC_TRNS\nRGB_TOG\nKC_NO\nKC_NO"
   ],
   [
     {
       "y": -0.75
     },
-    "KC_LSFT",
-    "KC_A",
+    "KC_LSFT\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_PEQL\nKC_DEL",
+    "KC_A\nKC_LGUI\nKC_EXLM\nKC_F5\nKC_TRNS\nKC_PMNS\nKC_NO",
     {
       "x": 12.5
     },
-    "KC_SCLN",
-    "RSFT_T(KC_QUOT)"
+    "KC_SCLN\nKC_VOLD\nKC_RPRN\nKC_RGUI\nRGB_MOD\nKC_NO\nKC_NO",
+    "RSFT_T(KC_QUOT)\nKC_INS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 3,
       "y": -0.75
     },
-    "KC_C",
+    "KC_C\nKC_TRNS\nKC_NUBS\nKC_F3\nKC_TRNS\nKC_2\nKC_F2",
     {
       "x": 8.5
     },
-    "KC_COMM"
+    "KC_COMM\nKC_MPLY\nKC_COMM\nKC_TRNS\nRGB_HUD\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 2,
       "y": -0.75
     },
-    "KC_X",
+    "KC_X\nKC_TRNS\nKC_GRV\nKC_F2\nKC_TRNS\nKC_1\nKC_F1",
     {
       "x": 1
     },
-    "KC_V",
+    "KC_V\nKC_TRNS\nKC_MINS\nKC_F4\nKC_TRNS\nKC_3\nKC_F3",
     {
       "x": 6.5
     },
-    "KC_M",
+    "KC_M\nKC_MPRV\nKC_UNDS\nKC_TRNS\nRGB_SAD\nKC_NO\nKC_NO",
     {
       "x": 1
     },
-    "KC_DOT"
+    "KC_DOT\nKC_MNXT\nKC_DOT\nKC_TRNS\nRGB_VAD\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 5,
       "y": -0.75
     },
-    "KC_B",
+    "KC_B\nKC_NUM\nKC_EQL\nKC_TRNS\nKC_TRNS\nKC_LEFT\nKC_F12",
     {
       "x": 4.5
     },
-    "KC_N"
+    "KC_N\nKC_PAUS\nKC_RBRC\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "y": -0.75
     },
-    "KC_LCTL",
-    "KC_Z",
+    "KC_LCTL\nKC_TRNS\nKC_PIPE\nKC_TRNS\nKC_TRNS\nLT(6,KC_NO)\nKC_TRNS",
+    "KC_Z\nKC_TRNS\nKC_BSLS\nKC_F1\nKC_TRNS\nKC_PPLS\nKC_NO",
     {
       "x": 12.5
     },
-    "KC_SLSH",
-    "KC_RCTL"
+    "KC_SLSH\nKC_MUTE\nKC_SLSH\nKC_TRNS\nRGB_RMOD\nKC_NO\nKC_NO",
+    "KC_RCTL\nKC_PSCR\nKC_ENT\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 6,
       "y": -0.75
     },
-    "KC_NO",
+    "KC_NO\nKC_NO\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO",
     {
       "x": 2.5
     },
-    "MO(3)"
+    "MO(3)\nKC_NO\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 2.5,
       "y": -0.75
     },
-    "KC_BSPC",
-    "KC_LGUI",
+    "KC_BSPC\nKC_DEL\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_PDOT\nKC_NO",
+    "KC_LGUI\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_P0\nKC_NO",
     {
       "x": 2.5
     },
-    "KC_BSLS",
+    "KC_BSLS\nKC_CAPS\nKC_NO\nKC_TRNS\nKC_TRNS\nKC_RGHT\nKC_NO",
     {
       "x": 0.5
     },
-    "KC_RBRC",
+    "KC_RBRC\nKC_TRNS\nKC_RCBR\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO",
     {
       "x": 2.5
     },
-    "KC_RSFT",
-    "LALT_T(KC_APP)"
+    "KC_RSFT\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO",
+    "LALT_T(KC_APP)\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 4.5,
       "y": -0.75
     },
-    "LALT_T(KC_ENT)",
+    "LALT_T(KC_ENT)\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_PENT\nKC_NO",
     {
       "x": 5.5
     },
-    "KC_RALT"
+    "KC_RALT\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 5.5,
       "y": -0.5
     },
-    "LT(4,KC_SPC)",
+    "LT(4,KC_SPC)\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_SPC\nKC_BSPC",
     {
       "x": 3.5
     },
-    "KC_SPC"
+    "KC_SPC\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ],
   [
     {
       "x": 6.5,
       "y": -0.75
     },
-    "MO(1)",
+    "MO(1)\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_LALT\nKC_NO",
     {
       "x": 1.5
     },
-    "MO(2)"
+    "MO(2)\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_TRNS\nKC_NO\nKC_NO"
   ]
 ]
