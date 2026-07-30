@@ -1,0 +1,230 @@
+[
+  {
+    "author": "splitkb.com",
+    "name": "Kyria rev3",
+    "_kleng_qmk_data": "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="
+  },
+  [
+    {
+      "x": 3
+    },
+    "0,3",
+    {
+      "x": 8.5
+    },
+    "4,3"
+  ],
+  [
+    {
+      "x": 2,
+      "y": -0.75
+    },
+    "0,4",
+    {
+      "x": 1
+    },
+    "0,2",
+    {
+      "x": 6.5
+    },
+    "4,2",
+    {
+      "x": 1
+    },
+    "4,4"
+  ],
+  [
+    {
+      "x": 5,
+      "y": -0.75
+    },
+    "0,1",
+    {
+      "x": 4.5
+    },
+    "4,1"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "0,6",
+    "0,5",
+    {
+      "x": 12.5
+    },
+    "4,5",
+    "4,6"
+  ],
+  [
+    {
+      "x": 3,
+      "y": -0.75
+    },
+    "1,3",
+    {
+      "x": 8.5
+    },
+    "5,3"
+  ],
+  [
+    {
+      "x": 2,
+      "y": -0.75
+    },
+    "1,4",
+    {
+      "x": 1
+    },
+    "1,2",
+    {
+      "x": 6.5
+    },
+    "5,2",
+    {
+      "x": 1
+    },
+    "5,4"
+  ],
+  [
+    {
+      "x": 5,
+      "y": -0.75
+    },
+    "1,1",
+    {
+      "x": 4.5
+    },
+    "5,1"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "1,6",
+    "1,5",
+    {
+      "x": 12.5
+    },
+    "5,5",
+    "5,6"
+  ],
+  [
+    {
+      "x": 3,
+      "y": -0.75
+    },
+    "2,3",
+    {
+      "x": 8.5
+    },
+    "6,3"
+  ],
+  [
+    {
+      "x": 2,
+      "y": -0.75
+    },
+    "2,4",
+    {
+      "x": 1
+    },
+    "2,2",
+    {
+      "x": 6.5
+    },
+    "6,2",
+    {
+      "x": 1
+    },
+    "6,4"
+  ],
+  [
+    {
+      "x": 5,
+      "y": -0.75
+    },
+    "2,1",
+    {
+      "x": 4.5
+    },
+    "6,1"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "2,6",
+    "2,5",
+    {
+      "x": 12.5
+    },
+    "6,5",
+    "6,6"
+  ],
+  [
+    {
+      "x": 6,
+      "y": -0.75
+    },
+    "3,3",
+    {
+      "x": 2.5
+    },
+    "7,3"
+  ],
+  [
+    {
+      "x": 2.5,
+      "y": -0.75
+    },
+    "3,4",
+    "3,2",
+    {
+      "x": 2.5
+    },
+    "2,0",
+    {
+      "x": 0.5
+    },
+    "6,0",
+    {
+      "x": 2.5
+    },
+    "7,2",
+    "7,4"
+  ],
+  [
+    {
+      "x": 4.5,
+      "y": -0.75
+    },
+    "3,1",
+    {
+      "x": 5.5
+    },
+    "7,1"
+  ],
+  [
+    {
+      "x": 5.5,
+      "y": -0.5
+    },
+    "3,5",
+    {
+      "x": 3.5
+    },
+    "7,5"
+  ],
+  [
+    {
+      "x": 6.5,
+      "y": -0.75
+    },
+    "3,0",
+    {
+      "x": 1.5
+    },
+    "7,0"
+  ]
+]
